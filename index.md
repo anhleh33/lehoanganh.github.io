@@ -2,16 +2,16 @@
 
 ## 📝 About Me
 
-Hello! I'm **[Your Name]**, a [Your Current Position – e.g., "Computer Science Student" or "Software Engineer"] with a strong interest in software development, artificial intelligence, and scalable systems. I am committed to continuous learning and passionate about applying my knowledge to real-world problems through meaningful and impactful projects.
+Hello! I'm Le Hoang Anh, a Software Engineer with a strong interest in software development, artificial intelligence, and scalable systems. I am committed to continuous learning and passionate about applying my knowledge to real-world problems through meaningful and impactful projects.
 
 ---
 
 ## 🎓 Education
 
-- **[University Name]**
-  - Major: [Your Major]
-  - Duration: [e.g., 2021 – 2025]
-  - GPA: [Your GPA, if applicable]
+- Ho Chi Minh city University of Education
+  - Major: Information Technology
+  - Duration: 2022 - 2026
+  - GPA: 3.2
 
 ---
 
@@ -51,9 +51,9 @@ Hello! I'm **[Your Name]**, a [Your Current Position – e.g., "Computer Science
 
 ## 📬 Contact
 
-- **Email:** [your.email@example.com]  
-- **LinkedIn:** [Your LinkedIn URL]  
-- **GitHub:** [Your GitHub Profile URL]  
+- **Email:** anhlehoang2004@gmail.com  
+- **LinkedIn:** www.linkedin.com/in/anh-le-320924286  
+- **GitHub:** https://github.com/anhleh33  
 - **Portfolio Website (if any):** [Your site URL]
 
 ---

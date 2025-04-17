@@ -1,55 +1,61 @@
----
-layout: default
-title: Trang cá nhân của tôi
----
+# 👨‍💼 Portfolio - [Your Full Name]
 
-# 👋 Xin chào! Tôi là Nguyễn Văn A
+## 📝 About Me
 
-Chào mừng bạn đến với **trang cá nhân** của tôi trên GitHub Pages!  
-Tôi là một sinh viên đam mê công nghệ và phát triển phần mềm, hiện đang học tại **Đại học XYZ**.
+Hello! I'm **[Your Name]**, a [Your Current Position – e.g., "Computer Science Student" or "Software Engineer"] with a strong interest in software development, artificial intelligence, and scalable systems. I am committed to continuous learning and passionate about applying my knowledge to real-world problems through meaningful and impactful projects.
 
 ---
 
-## 🧠 Giới thiệu bản thân
+## 🎓 Education
 
-- 🎓 Sinh viên năm 3 ngành Công nghệ Thông tin
-- 🌐 Yêu thích phát triển web, giao diện người dùng và học máy
-- 💼 Mong muốn trở thành Full-stack Developer trong tương lai
-
----
-
-## 💡 Kỹ năng
-
-| Kỹ năng               | Mức độ      |
-|-----------------------|-------------|
-| HTML / CSS            | ⭐⭐⭐⭐☆        |
-| JavaScript / React    | ⭐⭐⭐☆☆        |
-| Python / C++          | ⭐⭐⭐⭐☆        |
-| Git & GitHub          | ⭐⭐⭐⭐⭐        |
-| SQL / MySQL           | ⭐⭐⭐☆☆        |
+- **[University Name]**
+  - Major: [Your Major]
+  - Duration: [e.g., 2021 – 2025]
+  - GPA: [Your GPA, if applicable]
 
 ---
 
-## 🚀 Dự án đã thực hiện
+## 💼 Work Experience / Projects
 
-### 📌 [Ứng dụng Quản lý Công việc](https://github.com/username/task-manager)
-Ứng dụng web giúp người dùng tạo, quản lý và đánh dấu hoàn thành các công việc hàng ngày.  
-**Công nghệ:** React, Firebase
-
----
-
-### 📌 [Trang Portfolio cá nhân](https://github.com/username/portfolio)
-Website cá nhân giới thiệu bản thân và các dự án đã thực hiện.  
-**Công nghệ:** HTML, CSS, JavaScript
+### 🔹 [Company Name or Project Title]
+- **Role:** [e.g., Backend Intern | Frontend Developer]
+- **Duration:** [e.g., June 2023 – September 2023]
+- **Description:**
+  - Contributed to [brief description of what you worked on].
+  - Utilized technologies such as [e.g., Java, React, Python, SQL].
+  - Collaborated in a [Scrum/Agile] team environment.
 
 ---
 
-## 📫 Liên hệ
+## 🛠 Technical Skills
 
-- 📧 Email: nguyenvana@example.com  
-- 💼 GitHub: [@username](https://github.com/username)  
-- 🌐 Website: [https://username.github.io](https://username.github.io)
+- **Programming Languages:** Python, Java, C++, JavaScript  
+- **Technologies & Tools:** ReactJS, Node.js, Express, MySQL, MongoDB  
+- **Others:** Git, Docker, Linux, RESTful APIs
 
 ---
 
-> Cảm ơn bạn đã ghé thăm! Hãy kết nối với tôi nếu bạn quan tâm đến các dự án công nghệ thú vị!
+## 🌱 Highlighted Projects
+
+### 📌 [Project Name 1]
+- **Description:** [A brief explanation of the project]
+- **Link:** [GitHub or demo link]
+- **Tech Stack:** [Technologies used]
+
+### 📌 [Project Name 2]
+- **Description:** ...
+- **Link:** ...
+- **Tech Stack:** ...
+
+---
+
+## 📬 Contact
+
+- **Email:** [your.email@example.com]  
+- **LinkedIn:** [Your LinkedIn URL]  
+- **GitHub:** [Your GitHub Profile URL]  
+- **Portfolio Website (if any):** [Your site URL]
+
+---
+
+_“Continuous learning, consistent practice, and embracing challenges are the core principles guiding my professional journey.”_
